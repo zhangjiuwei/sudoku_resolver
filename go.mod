@@ -1,4 +1,4 @@
-module code.byted.org/personal/zhangwei.1024
+module github.com/zhangjiuwei/sudoku_resolver
 
 go 1.19
 
