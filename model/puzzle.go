@@ -2,7 +2,7 @@ package model
 
 import (
 	"bufio"
-	"code.byted.org/personal/zhangwei.1024/util"
+	"github.com/zhangjiuwei/sudoku_resolver/util"
 	"fmt"
 	"github.com/spf13/cast"
 	"os"
