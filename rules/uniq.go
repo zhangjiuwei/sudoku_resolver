@@ -1,6 +1,6 @@
 package rules
 
-import "code.byted.org/personal/zhangwei.1024/model"
+import "github.com/zhangjiuwei/sudoku_resolver/model"
 
 func Uniq(p *model.Puzzle) int {
 	total := 0
