@@ -1,8 +1,8 @@
 package main
 
 import (
-	"code.byted.org/personal/zhangwei.1024/model"
-	"code.byted.org/personal/zhangwei.1024/rules"
+	"github.com/zhangjiuwei/sudoku_resolver/model"
+	"github.com/zhangjiuwei/sudoku_resolver/rules"
 	"fmt"
 	"time"
 )
