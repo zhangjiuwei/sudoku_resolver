@@ -1,8 +1,8 @@
 package rules
 
 import (
-	"code.byted.org/personal/zhangwei.1024/model"
-	"code.byted.org/personal/zhangwei.1024/util"
+	"github.com/zhangjiuwei/sudoku_resolver/model"
+	"github.com/zhangjiuwei/sudoku_resolver/util"
 	"fmt"
 	"strings"
 )
