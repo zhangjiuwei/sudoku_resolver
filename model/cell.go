@@ -1,7 +1,7 @@
 package model
 
 import (
-	"code.byted.org/personal/zhangwei.1024/util"
+	"github.com/zhangjiuwei/sudoku_resolver/util"
 	"fmt"
 	mapset "github.com/deckarep/golang-set"
 )
